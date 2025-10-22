@@ -1,0 +1,6 @@
+streamlit>=1.22
+pdfplumber>=0.7.7
+pandas>=1.5
+PyPDF2>=3.0
+tqdm>=4.64
+python-dateutil>=2.8
